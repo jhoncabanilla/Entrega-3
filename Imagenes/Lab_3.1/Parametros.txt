@@ -1,0 +1,3 @@
+filas = columnas = 25
+semilla = 5
+probabilidad = 0.5

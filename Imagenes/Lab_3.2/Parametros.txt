@@ -1,0 +1,9 @@
+Recorrido DFS y BFS (no efecto visual):
+filas = columnas = 25
+semilla = 5
+probabilidad = 0.5
+
+Efecto visual:
+filas = columnas = 70,70
+semilla = 5
+probabilidad = 0.8
